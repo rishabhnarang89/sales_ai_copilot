@@ -1,28 +1,28 @@
-﻿review_id;product_name;review;review_date;customer_id;customer_name
-84;Cement;Excellent quality, very durable.;2021-03-23;1001;Keystone Builders Ltd.
-791;Sand;Clean sand, but slightly overpriced.;2022-07-17;1031;Pacific Builders Group
-248;Gravel;Good gravel but a few pieces were larger than expected.;2021-09-19;1007;Quantum Constructions
-903;Plywood;High-quality plywood, very durable.;2020-03-19;1029;NorthStar Builders Inc.
-462;Bricks;Good bricks, but a few were chipped.;2020-06-04;1040;Alpha Construction Ltd.
-863;Concrete Mix;Easy to blend, dries quickly.;2021-12-21;1014;YellowStone Builders Co.
-688;Drywall Sheets;Lightweight and easy to cut.;2022-02-14;1010;Titan Construction Co.
-247;PVC Pipes;Durable and easy to install.;2021-12-01;1005;OmniBuild Ltd.
-247;PVC Pipe Fittings;Secure fit, no leaks.;2021-07-01;1024;Imperial Constructions
-595;Conduits;Flexible and easy to route.;2020-05-31;1023;Harmony Builders Inc.
-607;Wood Beams;Strong and reliable for support.;2022-02-17;1021;Frontier Builders LLC
-745;Vinyl Flooring;Looks great, easy maintenance.;2020-04-22;1017;Bridgeway Builders
-536;Ceramic Tiles;Beautiful tiles, easy to install.;2021-02-22;1026;Knight Construction Co.
-235;Tile Adhesive;Strong adhesive, but difficult to spread evenly.;2020-04-01;1019;Dominion Builders Inc.
-913;Paint;Smooth finish, vibrant color.;2020-05-17;1012;Vista Construction Group
-274;Caulking;Seals gaps effectively, easy to use.;2022-06-14;1005;OmniBuild Ltd.
-890;Caulking Gun;Lightweight, smooth trigger action.;2020-12-17;1034;Summit Construction Co.
-445;Fence Posts;Strong and sturdy, perfect for our fencing project.;2021-02-13;1037;Victory Construction Inc.
-242;Welding Rods;Easy to strike, consistent welds.;2022-12-10;1009;Skyline Builders Ltd.
-976;Window Frames;Strong and weather-resistant.;2020-01-09;1004;Nexus Infrastructure Co.
-463;Sealant;Seals joints effectively, long-lasting.;2020-05-23;1025;Jupiter Builders Group
-138;Concrete Sealant;Effective seal, easy to apply.;2021-05-14;1038;Westward Builders Ltd.
-596;Safety Glasses;Comfortable fit, clear vision.;2020-06-14;1020;Empire Construction Co.
-876;Ear Protection;Excellent noise reduction.;2021-09-30;1035;Titan Builders Group
-857;Ladder;Sturdy and easy to extend.;2020-02-16;1033;Renaissance Builders Ltd.
-316;Power Drill;Powerful and easy to handle.;2020-04-01;1036;Urban Builders LLC
-253;Saw Blades;Stays sharp, precise cuts.;2020-06-10;1008;RedRock Constructions
+﻿review_id,product_name,review,review_date,customer_id,customer_name
+84,Cement,Excellent quality very durable.,2021-03-23,1001,Keystone Builders Ltd.
+791,Sand,Clean sand but slightly overpriced.,2022-07-17,1031,Pacific Builders Group
+248,Gravel,Good gravel but a few pieces were larger than expected.,2021-09-19,1007,Quantum Constructions
+903,Plywood,High-quality plywood very durable.,2020-03-19,1029,NorthStar Builders Inc.
+462,Bricks,Good bricks but a few were chipped.,2020-06-04,1040,Alpha Construction Ltd.
+863,Concrete Mix,Easy to blend dries quickly.,2021-12-21,1014,YellowStone Builders Co.
+688,Drywall Sheets,Lightweight and easy to cut.,2022-02-14,1010,Titan Construction Co.
+247,PVC Pipes,Durable and easy to install.,2021-12-01,1005,OmniBuild Ltd.
+247,PVC Pipe Fittings,Secure fit no leaks.,2021-07-01,1024,Imperial Constructions
+595,Conduits,Flexible and easy to route.,2020-05-31,1023,Harmony Builders Inc.
+607,Wood Beams,Strong and reliable for support.,2022-02-17,1021,Frontier Builders LLC
+745,Vinyl Flooring,Looks great easy maintenance.,2020-04-22,1017,Bridgeway Builders
+536,Ceramic Tiles,Beautiful tiles easy to install.,2021-02-22,1026,Knight Construction Co.
+235,Tile Adhesive,Strong adhesive but difficult to spread evenly.,2020-04-01,1019,Dominion Builders Inc.
+913,Paint,Smooth finish vibrant color.,2020-05-17,1012,Vista Construction Group
+274,Caulking,Seals gaps effectively easy to use.,2022-06-14,1005,OmniBuild Ltd.
+890,Caulking Gun,Lightweight smooth trigger action.,2020-12-17,1034,Summit Construction Co.
+445,Fence Posts,Strong and sturdy perfect for our fencing project.,2021-02-13,1037,Victory Construction Inc.
+242,Welding Rods,Easy to strike consistent welds.,2022-12-10,1009,Skyline Builders Ltd.
+976,Window Frames,Strong and weather-resistant.,2020-01-09,1004,Nexus Infrastructure Co.
+463,Sealant,Seals joints effectively long-lasting.,2020-05-23,1025,Jupiter Builders Group
+138,Concrete Sealant,Effective seal easy to apply.,2021-05-14,1038,Westward Builders Ltd.
+596,Safety Glasses,Comfortable fit clear vision.,2020-06-14,1020,Empire Construction Co.
+876,Ear Protection,Excellent noise reduction.,2021-09-30,1035,Titan Builders Group
+857,Ladder,Sturdy and easy to extend.,2020-02-16,1033,Renaissance Builders Ltd.
+316,Power Drill,Powerful and easy to handle.,2020-04-01,1036,Urban Builders LLC
+253,Saw Blades,Stays sharp precise cuts.,2020-06-10,1008,RedRock Constructions

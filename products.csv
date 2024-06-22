@@ -1,51 +1,51 @@
-﻿product_id;product_name;available_quantity;product_price;product_description;product_cross_sell
-CM1001;Cement;951;50;High-strength Portland cement for general construction;Concrete Mix
-CM1002;Sand;232;25;Fine aggregate sand for construction and landscaping;Gravel
-CM1003;Gravel;701;23;Coarse aggregate gravel for concrete and drainage;Sand
-CM1004;Rebar;609;24;Reinforcement steel bars for concrete structures;Cement
-CM1005;Plywood;65;57;High-quality plywood for construction and furniture;Bricks
-CM1006;Bricks;173;35;Red clay bricks for building walls and structures;Mortar Mix
-CM1007;Concrete Mix;947;57;Ready-mix concrete for various construction applications;Cement
-CM1008;Mortar Mix;299;79;Pre-mixed mortar for bricklaying and block construction;Bricks
-CM1009;Insulation Foam;92;34;Spray foam insulation for thermal and sound insulation;Drywall Sheets
-CM1010;Drywall Sheets;560;70;Standard drywall sheets for interior walls and ceilings;Joint Compound
-CM1011;Joint Compound;362;34;Pre-mixed joint compound for drywall finishing;Drywall Sheets
-CM1012;PVC Pipes;67;86;PVC pipes for plumbing and drainage systems;PVC Pipe Fittings
-CM1013;PVC Pipe Fittings;200;34;Various PVC pipe fittings for plumbing connections;PVC Pipes
-CM1014;Electrical Wiring;693;19;Copper electrical wiring for residential and commercial use;Conduits
-CM1015;Conduits;799;34;Electrical conduits for protecting wiring;Electrical Wiring
-CM1016;Roofing Shingles;706;78;Asphalt roofing shingles for residential roofs;Roofing Underlayment
-CM1017;Roofing Underlayment;309;23;Underlayment for additional roof protection;Roofing Shingles
-CM1018;Wood Beams;403;76;Structural wood beams for framing;Wood Stain
-CM1019;Wood Stain;312;43;Stain for protecting and coloring wood surfaces;Wood Beams
-CM1020;Vinyl Flooring;36;22;Durable vinyl flooring for residential and commercial use;Ceramic Tiles
-CM1021;Ceramic Tiles;679;67;Glazed ceramic tiles for walls and floors;Tile Adhesive
-CM1022;Tile Adhesive;745;76;High-strength adhesive for tiles;Ceramic Tiles
-CM1023;Paint;790;24;Interior and exterior paint in various colors;Paint Brushes
-CM1024;Paint Brushes;559;23;Various sizes of paint brushes for all painting needs;Paint
-CM1025;Caulking;348;34;Silicone caulking for sealing gaps and joints;Caulking Gun
-CM1026;Caulking Gun;620;12;Caulking gun for applying sealants;Caulking
-CM1027;Decking Boards;960;19;Composite decking boards for outdoor decks;Deck Screws
-CM1028;Deck Screws;940;56;Screws for securing decking boards;Decking Boards
-CM1029;Fence Panels;337;49;Pre-fabricated fence panels for privacy and security;Fence Posts
-CM1030;Fence Posts;629;14;Fence posts for supporting fence panels;Fence Panels
-CM1031;Concrete Blocks;879;23;Standard concrete blocks for construction;Cement
-CM1032;Angle Iron;60;19;Steel angle iron for structural support;Welding Rods
-CM1033;Welding Rods;318;12;Welding rods for metal fabrication;Angle Iron
-CM1034;Glass Panels;701;49;Tempered glass panels for windows and doors;Window Frames
-CM1035;Window Frames;50;29;Frames for installing glass panels;Glass Panels
-CM1036;Asphalt;757;49;Asphalt mix for road and driveway paving;Sealant
-CM1037;Sealant;287;24;Sealant for asphalt surfaces;Asphalt
-CM1038;Flashing Tape;484;23;Waterproof flashing tape for roofs and windows;Roofing Shingles
-CM1039;Concrete Sealant;544;19;Sealant for concrete surfaces;Concrete Blocks
-CM1040;Safety Glasses;336;4;Protective glasses for construction sites;Hard Hats
-CM1041;Hard Hats;106;14;Safety hard hats for head protection;Safety Glasses
-CM1042;Work Gloves;146;7;Durable work gloves for hand protection;Ear Protection
-CM1043;Ear Protection;277;9;Ear muffs for noise reduction on construction sites;Work Gloves
-CM1044;Ladder;335;89;Aluminum extension ladder for high-reach tasks;Power Drill
-CM1045;Power Drill;958;79;Cordless power drill with battery and charger;Drill Bits
-CM1046;Drill Bits;141;19;Assorted drill bits for various materials;Power Drill
-CM1047;Circular Saw;774;29;High-power circular saw for cutting wood and metal;Saw Blades
-CM1048;Saw Blades;227;59;Replacement blades for circular saws;Circular Saw
-CM1049;Laser Level;79;51;Laser level for accurate measurements;Ladder
-CM1050;Rubber;218;35;LDR Brachytherapy of Abd using Californium 252;Concrete Mix
+﻿product_id,product_name,available_quantity,product_price,product_description,product_cross_sell
+CM1001,Cement,951,50,High-strength Portland cement for general construction,Concrete Mix
+CM1002,Sand,232,25,Fine aggregate sand for construction and landscaping,Gravel
+CM1003,Gravel,701,23,Coarse aggregate gravel for concrete and drainage,Sand
+CM1004,Rebar,609,24,Reinforcement steel bars for concrete structures,Cement
+CM1005,Plywood,65,57,High-quality plywood for construction and furniture,Bricks
+CM1006,Bricks,173,35,Red clay bricks for building walls and structures,Mortar Mix
+CM1007,Concrete Mix,947,57,Ready-mix concrete for various construction applications,Cement
+CM1008,Mortar Mix,299,79,Pre-mixed mortar for bricklaying and block construction,Bricks
+CM1009,Insulation Foam,92,34,Spray foam insulation for thermal and sound insulation,Drywall Sheets
+CM1010,Drywall Sheets,560,70,Standard drywall sheets for interior walls and ceilings,Joint Compound
+CM1011,Joint Compound,362,34,Pre-mixed joint compound for drywall finishing,Drywall Sheets
+CM1012,PVC Pipes,67,86,PVC pipes for plumbing and drainage systems,PVC Pipe Fittings
+CM1013,PVC Pipe Fittings,200,34,Various PVC pipe fittings for plumbing connections,PVC Pipes
+CM1014,Electrical Wiring,693,19,Copper electrical wiring for residential and commercial use,Conduits
+CM1015,Conduits,799,34,Electrical conduits for protecting wiring,Electrical Wiring
+CM1016,Roofing Shingles,706,78,Asphalt roofing shingles for residential roofs,Roofing Underlayment
+CM1017,Roofing Underlayment,309,23,Underlayment for additional roof protection,Roofing Shingles
+CM1018,Wood Beams,403,76,Structural wood beams for framing,Wood Stain
+CM1019,Wood Stain,312,43,Stain for protecting and coloring wood surfaces,Wood Beams
+CM1020,Vinyl Flooring,36,22,Durable vinyl flooring for residential and commercial use,Ceramic Tiles
+CM1021,Ceramic Tiles,679,67,Glazed ceramic tiles for walls and floors,Tile Adhesive
+CM1022,Tile Adhesive,745,76,High-strength adhesive for tiles,Ceramic Tiles
+CM1023,Paint,790,24,Interior and exterior paint in various colors,Paint Brushes
+CM1024,Paint Brushes,559,23,Various sizes of paint brushes for all painting needs,Paint
+CM1025,Caulking,348,34,Silicone caulking for sealing gaps and joints,Caulking Gun
+CM1026,Caulking Gun,620,12,Caulking gun for applying sealants,Caulking
+CM1027,Decking Boards,960,19,Composite decking boards for outdoor decks,Deck Screws
+CM1028,Deck Screws,940,56,Screws for securing decking boards,Decking Boards
+CM1029,Fence Panels,337,49,Pre-fabricated fence panels for privacy and security,Fence Posts
+CM1030,Fence Posts,629,14,Fence posts for supporting fence panels,Fence Panels
+CM1031,Concrete Blocks,879,23,Standard concrete blocks for construction,Cement
+CM1032,Angle Iron,60,19,Steel angle iron for structural support,Welding Rods
+CM1033,Welding Rods,318,12,Welding rods for metal fabrication,Angle Iron
+CM1034,Glass Panels,701,49,Tempered glass panels for windows and doors,Window Frames
+CM1035,Window Frames,50,29,Frames for installing glass panels,Glass Panels
+CM1036,Asphalt,757,49,Asphalt mix for road and driveway paving,Sealant
+CM1037,Sealant,287,24,Sealant for asphalt surfaces,Asphalt
+CM1038,Flashing Tape,484,23,Waterproof flashing tape for roofs and windows,Roofing Shingles
+CM1039,Concrete Sealant,544,19,Sealant for concrete surfaces,Concrete Blocks
+CM1040,Safety Glasses,336,4,Protective glasses for construction sites,Hard Hats
+CM1041,Hard Hats,106,14,Safety hard hats for head protection,Safety Glasses
+CM1042,Work Gloves,146,7,Durable work gloves for hand protection,Ear Protection
+CM1043,Ear Protection,277,9,Ear muffs for noise reduction on construction sites,Work Gloves
+CM1044,Ladder,335,89,Aluminum extension ladder for high-reach tasks,Power Drill
+CM1045,Power Drill,958,79,Cordless power drill with battery and charger,Drill Bits
+CM1046,Drill Bits,141,19,Assorted drill bits for various materials,Power Drill
+CM1047,Circular Saw,774,29,High-power circular saw for cutting wood and metal,Saw Blades
+CM1048,Saw Blades,227,59,Replacement blades for circular saws,Circular Saw
+CM1049,Laser Level,79,51,Laser level for accurate measurements,Ladder
+CM1050,Rubber,218,35,LDR Brachytherapy of Abd using Californium 252,Concrete Mix
